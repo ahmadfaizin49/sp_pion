@@ -15,7 +15,7 @@
 <!-- App css-->
 {{-- <link rel="stylesheet" type="text/css" href="{{asset('assets/css/style.css')}}"> --}}
 {{-- @vite(['public/assets/scss/style.scss', 'resources/js/app.js']) --}}
-@vite(['resources/js/app.js'])
+{{-- @vite(['resources/js/app.js']) --}}
 
 <link id="color" rel="stylesheet" href="{{asset('assets/css/color-1.css')}}" media="screen">
 <!-- Responsive css-->
